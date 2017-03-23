@@ -1,6 +1,6 @@
 # 1. Load data
 load('E:/Academic/UW/504/project/New_data/dat_all.RData')
-head(dat)
+
 
 ## Log-data
 dat$Region <- as.factor(dat$Region)
